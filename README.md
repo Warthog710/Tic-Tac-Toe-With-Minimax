@@ -3,5 +3,5 @@ Python implementation of Tic Tac Toe
 
 To Do:
 <br>
-- [ ] Implement MinMax for AI opponent
+- [x] Implement MinMax for AI opponent
 - [ ] Create GUI
